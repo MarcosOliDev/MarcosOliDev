@@ -37,13 +37,13 @@ Me chamo Marcos Oliveira, tenho 23 anos e sou aspirante a desenvolvedor full sta
     alt="GitHub Stats"
     height="200"
     style="padding-right: 15px;"
-src="https://github-stats-extended.vercel.app/api?username=Marcos-dev03&show_icons=true&include_all_commits=true&theme=dark_github&hide_title"
+src="https://github-stats-extended.vercel.app/api?username=MarcosOliDev&show_icons=true&include_all_commits=true&theme=dark_github&hide_title"
 />
 
   <img
     align="left"
     alt="Linguagens mais usadas"
     height="200"
-    src="https://github-stats-extended.vercel.app/api/top-langs?username=Marcos-dev03&langs_count=4&theme=dark_github"
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=MarcosOliDev&langs_count=4&theme=dark_github"
   />
 </p>
