@@ -47,10 +47,18 @@ src="https://github-stats-extended.vercel.app/api?username=MarcosOliDev&show_ico
   src="https://github-stats-extended.vercel.app/api?username=MarcosOliDev&show_icons=true&include_all_commits=true&owner=MarcosOliDev&theme=dark_github&hide_title"
 />
 
-  <img
+  <!--<img
     align="left"
     alt="Linguagens mais usadas"
     height="200"
     src="https://github-stats-extended.vercel.app/api/top-langs?username=MarcosOliDev&langs_count=4&theme=dark_github"
-  />
+  />-->
+  
+<img
+  align="left"
+  alt="Linguagens mais usadas"
+  height="200"
+  src="https://github-stats-extended.vercel.app/api/top-langs?username=MarcosOliDev&langs_count=4&owner=MarcosOliDev&theme=dark_github"
+/>
+
 </p>
