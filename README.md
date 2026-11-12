@@ -34,8 +34,8 @@ Me chamo Marcos Oliveira, tenho 23 anos e sou aspirante a desenvolvedor full sta
 <p align="center">
   <img
     alt="GitHub Stats"
-    width="52%"
-    height="200"
+    width="48%"
+    height="206"
     src="https://github-stats-extended-delta-ten.vercel.app/api?username=MarcosOliDev&show_icons=true&include_all_commits=true&owner=MarcosOliDev&theme=dark_github&hide_title"
   />
   &nbsp;&nbsp;&nbsp;
