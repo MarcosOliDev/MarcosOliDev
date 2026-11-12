@@ -31,19 +31,19 @@ Me chamo Marcos Oliveira, tenho 23 anos e sou aspirante a desenvolvedor full sta
 ---
 
 ### 📊 Estatísticas
-<p>
-<img
-  align="left"
-  alt="GitHub Stats"
-  height="200"
-  style="padding-right: 15px;"
-  src="[![GitHub Stats](https://github-stats-extended-delta-ten.vercel.app/api?username=MarcosOliDev&show_icons=true&theme=dark_github)](https://github-stats-extended-delta-ten.vercel.app/api?username=MarcosOliDev&show_icons=true&include_all_commits=true&owner=MarcosOliDev&theme=dark_github&hide_title)"
-/>
-
-<img
-  align="left"
-  alt="Linguagens mais usadas"
-  height="200"
-  src="[![Top Languages](https://github-stats-extended-delta-ten.vercel.app/api/top-langs?username=MarcosOliDev&layout=compact&theme=dark_github)](https://github-stats-extended-delta-ten.vercel.app/api/top-langs?username=MarcosOliDev&langs_count=4&layout=compact&owner=MarcosOliDev&theme=dark_github)"
-/>
+<p align="center">
+  <a href="https://github-stats-extended-delta-ten.vercel.app/">
+    <img
+      alt="GitHub Stats"
+      height="200"
+      src="https://github-stats-extended-delta-ten.vercel.app/api?username=MarcosOliDev&show_icons=true&include_all_commits=true&owner=MarcosOliDev&theme=dark_github&hide_title"
+    />
+  </a>
+  <a href="https://github-stats-extended-delta-ten.vercel.app/">
+    <img
+      alt="Linguagens mais usadas"
+      height="200"
+      src="https://github-stats-extended-delta-ten.vercel.app/api/top-langs?username=MarcosOliDev&langs_count=4&layout=compact&owner=MarcosOliDev&theme=dark_github"
+    />
+  </a>
 </p>
